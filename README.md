@@ -1,3 +1,4 @@
-# Zabbix Excel Import
+# Included scripts:
+# - Zabbix Excel Import
 
-Small script for importing and creating host from Excel list.
+Small scripts for automating Zabbix actions via API.
